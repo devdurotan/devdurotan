@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdurotan&label=Profile%20views&color=0e75b6&style=flat" alt="devdurotan" /> </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Backend+End+Developer;Nice+To+Meet+You+...&center=true">
+  </p>
+
 - 🌱 I’m currently learning **Python , DRF , DJANGO , JWT**
 
 - 👯 I’m looking to collaborate on **Backend Development**
